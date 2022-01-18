@@ -1,0 +1,2 @@
+RTC.c:3:9:RTC_convertFromDec	24	static
+RTC.c:8:9:RTC_convertFromBinDec	24	static
